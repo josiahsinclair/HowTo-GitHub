@@ -1,0 +1,29 @@
+To create a project on Github
+
+First, create a repository.
+
+Next, navigate to the directory you want to save the project in locally, and type: "git clone URL
+
+Next, create whatever additional python codes you want in that directory
+
+Use "git status" to see how what you have is different from what github has
+
+Then type "git add 'filename'"
+
+Now it's added but it's not committed
+
+To commit, type "git commit -m "whatever you want to say here"
+
+now type "git push"
+
+then check on gihub.com and see if it's up there!
+
+(these commmands only work when you are in the github repository)
+
+other git commands:
+
+git pull
+
+git add .
+
+git add -A
