@@ -16,7 +16,14 @@ To commit, type "git commit -m "whatever you want to say here"
 
 now type "git push"
 
-then check on gihub.com and see if it's up there!
+You may need to authenticate your identity. Type in your username "josiahsinclair" and for the password use an access token. 
+
+For information on how to generate an access token, see here: 
+
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
+then check on github.com and see if it's up there!
 
 (these commmands only work when you are in the github repository)
 
