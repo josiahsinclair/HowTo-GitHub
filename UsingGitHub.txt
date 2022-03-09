@@ -20,7 +20,9 @@ You may need to authenticate your identity. Type in your username "josiahsinclai
 
 For information on how to generate an access token, see here: 
 
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+you can also just enter the command
+
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
 
 
 then check on github.com and see if it's up there!
